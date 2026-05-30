@@ -4,3 +4,4 @@ IPython
 matplotlib
 scikit-learn
 ipykernel
+opencv-python
